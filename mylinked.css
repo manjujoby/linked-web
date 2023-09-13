@@ -1,0 +1,29 @@
+.firsthalf
+{
+    width: 100%;
+    height: 150px;
+    background: blue;
+    float: left;
+}
+
+.secondhalf
+{
+    width: 100%;
+    height: 900px;
+    
+}
+.secondhalf1
+{
+    width: 50%;
+    height: 900px;
+float: left;
+background: rgb(240, 245, 240);
+}
+.secondhalf2
+{
+    width: 50%;
+    height:900px ;
+float: left;
+background: rgb(245, 245, 239);
+
+}
